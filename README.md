@@ -1,12 +1,14 @@
 # Hi, I’m @JackThanawat👋
 👀 I’m interested in Web Developer <br>
-🌱 I’m currently learning Java, Java Script, SQL, R <br>
+🌱 I’m currently learning Java, JavaScript, SQL, R <br>
 💞️ I’m looking to collaborate on ...Who collaborate study same to me. <br>
 
 ## 📫 How to reach me 
 👉 [Facebook](https://www.facebook.com/tnw.jack/)<br>
 👉 [Blogger](https://www.facebook.com/songpro.online)<br>
 👉 [Instagram](https://www.instagram.com/jack.tnw/)<br><br>
+
+![Thanawat Naeching](https://www.instagram.com/p/CJdu38YH1xS/)
 
 ## GitHub Stats Card
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jacktnw&show_icons=true&theme=radical)
