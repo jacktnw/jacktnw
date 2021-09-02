@@ -8,7 +8,7 @@
 👉 [Blogger](https://www.facebook.com/songpro.online)<br>
 👉 [Instagram](https://www.instagram.com/jack.tnw/)<br><br>
 
-![!Thanawat Naeching](https://drive.google.com/file/d/1gmtm8ILQDqPPu-Codi9pp80qc-ARlMSo/view?usp=sharing)
+![Thanawat Naeching](https://drive.google.com/file/d/12uzR53E5aYUwRrvpec5lvfmJ5HrqBSA2/view?usp=sharing)
 
 ## GitHub Stats Card
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jacktnw&show_icons=true&theme=radical)
