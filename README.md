@@ -1,6 +1,5 @@
 # Hi, I’m @JackThanawat👋
-👀 I’m interested in Web Developer
-
+👀 I’m interested in Web Developer <br>
 🌱 I’m currently learning Java, Java Script, SQL, R <br>
 💞️ I’m looking to collaborate on ...Who collaborate study same to me. <br>
 
@@ -12,7 +11,8 @@
 ## GitHub Stats Card
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jacktnw&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jacktnw&layout=compact?theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jacktnw&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <!--
