@@ -1,8 +1,10 @@
-### Hi, I’m @JackThanawat👋
+# Hi, I’m @JackThanawat👋
 👀 I’m interested in Web Developer
 
 🌱 I’m currently learning Java, Java Script, SQL, R
 
+# GitHub Stats Card
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jacktnw&show_icons=true&theme=radical)
 
 <!--
 
