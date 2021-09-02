@@ -3,8 +3,6 @@
 
 🌱 I’m currently learning Java, Java Script, SQL, R
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jacktnw)](https://github.com/anuraghazra/github-readme-stats)
-
 
 <!--
 **jacktnw/jacktnw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,3 +18,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jacktnw)](https://github.com/anuraghazra/github-readme-stats)
