@@ -8,7 +8,6 @@
 👉 [Blogger](https://www.facebook.com/songpro.online)<br>
 👉 [Instagram](https://www.instagram.com/jack.tnw/)<br><br>
 
-![img]("https://drive.google.com/file/d/1gmtm8ILQDqPPu-Codi9pp80qc-ARlMSo/view?usp=sharing.jpg")
 
 
 ## GitHub Stats
