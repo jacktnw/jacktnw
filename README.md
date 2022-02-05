@@ -5,7 +5,7 @@
 
 ## 📫 How to reach me 
 👉 [Facebook](https://www.facebook.com/tnw.jack/)<br>
-👉 [Blogger](https://www.facebook.com/songpro.online)<br>
+👉 [Fan Page](https://www.facebook.com/songpro.online)<br>
 👉 [Instagram](https://www.instagram.com/jack.tnw/)<br><br>
 
 
